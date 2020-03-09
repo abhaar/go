@@ -1,4 +1,4 @@
-package heap
+package _go
 
 type HeapType int
 

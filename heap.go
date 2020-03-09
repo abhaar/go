@@ -1,4 +1,4 @@
-package heap
+package _go
 
 type IntHeap struct {
 	elements []int
