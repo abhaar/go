@@ -1,4 +1,4 @@
-package _go
+package ds
 
 import (
 	"container/heap"

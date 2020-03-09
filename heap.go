@@ -1,4 +1,4 @@
-package _go
+package ds
 
 type IntHeap struct {
 	elements []int
